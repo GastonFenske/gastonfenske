@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=2e64743fpm1473zc9wyp992wwq4sgo7tlqfexpg3ee3wuxik&rid=giphy.gif&ct=g" /><br>
   <a href="https://github.com/GastonFenske">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GastonFenske&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GastonFenske&layout=compact&langs_count=7&theme=chartreuse-dark"/>
